@@ -103,19 +103,19 @@
           <div class="grid lg:grid-cols-4 md:grid-cols-2 grid-cols-2 gap-x-2 gap-y-2 lg:gap-x-6 md:gap-x-6 md:gap-y-6 md:gap-y-6">
             <div class="flex justify-center flex-col items-center w-36 h-36 md:w-44 md:h-48 lg:w-56 lg:h-56 bg-white shadow rounded-2xl">
               <div class=" text-center"><img class="w-16" src="https://i.ibb.co/SQf5TBN/camera.png" alt=""></div>
-              <p class="mt-4 text-sm md:text-base lg:text-lg leading-none text-center text-gray-600">Party-cakes</p>
+              <p class="mt-4 text-sm md:text-base lg:text-lg leading-none text-center text-gray-600">Cameras</p>
             </div>
             <div class="flex justify-center flex-col items-center w-36 h-36 md:w-44 md:h-48 lg:w-56 lg:h-56 bg-white shadow rounded-2xl">
               <div class=" text-center"><img class="w-16" src="https://i.ibb.co/y05D1j1/battery.png" alt=""></div>
-              <p class="mt-4 text-sm md:text-base lg:text-lg leading-none text-center text-gray-600">Wedding-cakes</p>
+              <p class="mt-4 text-sm md:text-base lg:text-lg leading-none text-center text-gray-600">Camera batteries</p>
             </div>
             <div class="flex justify-center flex-col items-center w-36 h-36 md:w-44 md:h-48 lg:w-56 lg:h-56 bg-white shadow rounded-2xl">
               <div class=" text-center"><img class="w-16" src="https://i.ibb.co/QFc8dxC/light.png" alt=""></div>
-              <p class="mt-4 text-sm md:text-base lg:text-lg leading-none text-center text-gray-600">Cupcakes</p>
+              <p class="mt-4 text-sm md:text-base lg:text-lg leading-none text-center text-gray-600">Lighting sets</p>
             </div>
             <div class="flex justify-center flex-col items-center w-36 h-36 md:w-44 md:h-48 lg:w-56 lg:h-56 bg-white shadow rounded-2xl">
               <div class=" text-center"><img class="w-16" src="https://i.ibb.co/Z8V3mbg/video.png" alt=""></div>
-              <p class="mt-4 text-sm md:text-base lg:text-lg leading-none text-center text-gray-600">Birthday-cakes</p>
+              <p class="mt-4 text-sm md:text-base lg:text-lg leading-none text-center text-gray-600">Video cameras</p>
             </div>
           </div>
         </div>
